@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 - 🔭 Crafting custom WordPress plugins and themes since 2010 
-- 🌱 Specializing in React.js for modern web development 
+- 🌱 Specializing in **React.js** for modern web development 
 - 💬 Ask me anything about WordPress plugins, themes, and advanced integrations 
-- 💻 Currently developing innovative WordPress themes at [Dictri Themes](https://dictrithemes.com) 
-- ⚡ Actively contributing to the WordPress community: [WordPress.org Profile](https://profiles.wordpress.org/dickensayiekos/) 
-- 📫 **Get in touch:** [dickensayieko@dictrithemes.com](mailto:dickensayieko@dictrithemes.com)
-
----
+- 💻 Currently developing innovative WordPress themes at <a href="https://dictrithemes.com" target="_blank">Dictri Themes</a> 
+- ⚡ Actively contributing to the WordPress community: <a href="https://profiles.wordpress.org/dickensayiekos/" target="_blank">WordPress.org Profile</a>
+- 📫 **Get in touch:** <a href="mailto:dickensayieko@dictrithemes.com" target="_blank">dickensayieko@dictrithemes.com</a>
 
