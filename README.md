@@ -1,25 +1,10 @@
 ## Hi there 👋
 
-<!--
-**dickensotieno/dickensotieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 Been building WordPress plugins and themes since 2010
 - 🌱 React.JS expert
 - 💬 Ask me about WordPress plugins and themes
 - 💻 Working on https://dictrithemes.com
-- ⚡ No longer available for part-time freelance work, but can refer
+<!-- ⚡ No longer available for part-time freelance work, but can refer -->
 - 📫 How to reach me: dickensayieko at dictrithemes.com
 
 ## Stats :godmode:
