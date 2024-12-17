@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 **Crafting custom WordPress plugins and themes** on Themeforest and Creative Market since 2014 
+- 🔭 **Crafting custom WordPress plugins and themes** on Themeforest and Creative Market since 2012
 - 🌱 **Specializing** in **React.js** for modern web development 
 - 💬 **Ask me anything** about WordPress plugins, themes, and advanced integrations 
 - ⚡ **Actively contributing** to the WordPress community: <a href="https://profiles.wordpress.org/dickensayiekos/" target="_blank">WordPress.org Profile</a>
